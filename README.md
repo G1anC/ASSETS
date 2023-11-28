@@ -1,4 +1,4 @@
-# FONTS
+# ASSETS
 
 A public cloud storage repository for my fonts and future assets.
 
